@@ -1566,7 +1566,7 @@ section {
   margin-bottom: 30px;
 }
 #footer .footer-top .footer-newsletter ul{
-    padding: 0px;
+    padding: 0px 5px;
 }
 
 #footer .footer-top .footer-newsletter input[type="email"] {
